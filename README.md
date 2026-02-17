@@ -9,3 +9,9 @@ Lightweight dev scaffold for a gamified environmental learning platform with pho
 cd backend
 npm install
 npm run dev
+```
+2. Open a terminal and start the frontend:
+```bash
+cd frontend
+npm install
+npm run dev
